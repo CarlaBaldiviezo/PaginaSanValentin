@@ -20,7 +20,7 @@ document.getElementById("siBtn").addEventListener("click", function () {
 
   // Mostrar el mensaje específico
   document.getElementById("messageContainer").style.display = "block";
-  document.getElementById("messageContainer").innerHTML = "¡aaaaAAAaaaa snwajdn!";
+  document.getElementById("messageContainer").innerHTML = "¡aaaaAAAaaaa snwajfsveageragXKBDKHHEVdn!";
 
   // Mostrar otro gif después de 3 segundos
   setTimeout(function () {
@@ -60,7 +60,7 @@ document.getElementById("noBtn").addEventListener("click", function () {
     case 1:
       // Segunda vez haciendo clic en "No"
 
-      document.getElementById("noBtn").innerHTML = "¡¿Realmente estas segura?!";
+      document.getElementById("noBtn").innerHTML = "¡¿Realmente estas seguro?!";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
       document.getElementById("sadGifContainer").style.display = "none";
       document.getElementById("sadGifContainer2").style.display = "block";
@@ -88,7 +88,7 @@ document.getElementById("noBtn").addEventListener("click", function () {
       break;
 
     case 3:
-      document.getElementById("noBtn").innerHTML = "¿Eres positiva?";
+      document.getElementById("noBtn").innerHTML = "¿Eres positivo?";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       // Hacer que el botón "Sí" crezca
@@ -98,7 +98,7 @@ document.getElementById("noBtn").addEventListener("click", function () {
       noButtonState++;
       break;
     case 4:
-      document.getElementById("noBtn").innerHTML = "Di que si por favor?";
+      document.getElementById("noBtn").innerHTML = "Di que sí por favor?";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       // Hacer que el botón "Sí" crezca
@@ -108,7 +108,7 @@ document.getElementById("noBtn").addEventListener("click", function () {
       noButtonState++;
       break;
     case 5:
-      document.getElementById("noBtn").innerHTML = "Solo piensa en ello";
+      document.getElementById("noBtn").innerHTML = "Solo piensa en ello Jacintoooooooooo";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       // Hacer que el botón "Sí" crezca
@@ -139,7 +139,7 @@ document.getElementById("noBtn").addEventListener("click", function () {
       noButtonState++;
       break;
     case 8:
-      document.getElementById("noBtn").innerHTML = "Estaré muy muy muy triste";
+      document.getElementById("noBtn").innerHTML = "Estaré MUY MUY muy triste";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       document.getElementById("siBtn").style.fontSize = "140px";
